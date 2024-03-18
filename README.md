@@ -22,11 +22,12 @@ Select your option at GUI and select file/folder
 ## **Select File Option**
 The selected video will be on a loop
 
-## **Select Folder**
+## **Select Folder Option**
 The videos in the file will be played one by one and will start from the beginning when finished.
 
 ## **Contact**
 <li>Discord : 0giv
+  
 ## **Disclaimer:**
 
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
