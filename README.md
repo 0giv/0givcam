@@ -23,7 +23,7 @@ Select your option at GUI and select file/folder
 The selected video will be on a loop
 
 ## **Select Folder Option**
-The videos in the file will be played one by one and will start from the beginning when finished.
+The videos in the folder will be played one by one and will start from the beginning when finished.
 
 ## **Contact**
 <li>Discord : 0giv
