@@ -1,20 +1,28 @@
 
 
 **Requirements:**\
-Python3, Windows(x64),OBS
+Python3, Windows(x64),OBS Virtual Camera
 
 
 ## **Setup Guide:**
 
-```
-pip3 install -r requirements.txt
-```
-Then if the steps above were successful, you can launch the python file by executing ```python 0givcam.py``` or double click to 0givcam.py and run with python. Select 1 video or Select a Video Folder option.
 
+- First you have to download OBS Virtual Camera from here :
+  ```
+  https://obsproject.com/
+  ```
 
-## **Usage**
-<li>Select Video</li>
-<li>Select Video Folder</li>
+- then:
+  
+  ```
+  pip3 install -r requirements.txt
+  ```
+  Then if the steps above were successful, you can launch the python file by executing ```python 0givcam.py``` or double click to 0givcam.py and run with python. Select 1 video or Select a Video Folder option.
+  
+  
+  ## **Usage**
+  <li>Select Video</li>
+  <li>Select Video Folder</li>
 
 ```
 Select your option at GUI and select file/folder
