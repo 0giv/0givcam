@@ -9,7 +9,7 @@ Python3, Windows(x64),OBS
 ```
 pip3 install -r requirements.txt
 ```
-Then if the steps above were successful, you can launch the python file by executing ```python main.py```. Select 1 video or Select a Video Folder option.
+Then if the steps above were successful, you can launch the python file by executing ```python 0givcam.py``` or double click to 0givcam.py and run with python. Select 1 video or Select a Video Folder option.
 
 
 ## **Usage**
@@ -26,7 +26,7 @@ The selected video will be on a loop
 The videos in the folder will be played one by one and will start from the beginning when finished.
 
 ## **Contact**
-<li>Discord : 0giv
+<li>Discord : aperionthink@proton.me
   
 ## **Disclaimer:**
 
